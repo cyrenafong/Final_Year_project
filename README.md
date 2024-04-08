@@ -14,4 +14,5 @@ IMDBの点数とユーザーが評価点数に加えて、予測しました。
 アカデミー賞の審査標準がわからないので、3つの点数の比率を変更したり、Test Sizeを変更したり、プログラムの検証をしました。
 結果的に、精度は７０％ありました。
 
+成果報告書：https://drive.google.com/file/d/11Fm0Nk5X4FXhK4THUefythJt_rLDzFMf/view?usp=drive_link
 ＊注：現在は、IMDBのサイトは更新したらしくて、書いたプログラムはもう使えません。
